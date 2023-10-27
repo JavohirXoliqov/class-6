@@ -1,0 +1,23 @@
+.center {
+    text-align: center;
+ 
+}
+.feil {
+    background-color: rgb(249, 207, 155);
+    color: rgb(251, 205, 149);
+}
+
+
+.top {
+    text-align: center;
+
+}
+.app {
+    color: rgb(244, 158, 53);
+}
+body {
+    background-color: bisque;
+}
+.style {
+ background-color: rgb(247, 197, 136);
+}
